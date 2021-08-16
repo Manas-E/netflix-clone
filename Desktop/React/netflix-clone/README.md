@@ -1,3 +1,36 @@
+# Netflix Clone UI
+A sincere try to replicate Netflix UI, It consists of a login screen, main screen, profile section and landing page of Netflix.
+
+Tech stack :
+
+- React
+- Redux
+- firebase
+# Features
+- Login Screen : For login and register- 
+- Landing Page : To signin
+- Redux to monitor login and logout
+- Router to switch between different screens
+- Home Page : Netfilx's Home page with animation and scrolling movie details fetched via TMDB Api
+- Profile Page
+
+# Showcase
+
+## Landing Page
+
+![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netflix_email.png)
+
+## Login Page
+![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netflix_signin.png)
+
+## Home Page 
+
+![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netflix_main.png)
+
+![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netlix_main_2.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
