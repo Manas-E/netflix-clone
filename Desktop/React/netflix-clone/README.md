@@ -29,6 +29,10 @@ Tech stack :
 
 ![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netlix_main_2.png)
 
+# Profile Page 
+![alt text](https://github.com/Manas-E/netflix-clone/blob/master/Desktop/React/netflix-clone/screenshots/netflix_profile.png)
+
+
 
 
 # Getting Started with Create React App
